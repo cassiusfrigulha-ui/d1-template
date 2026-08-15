@@ -1,6 +1,6 @@
 {
-	"name": "d1-template",
-	"description": "Cloudflare's native serverless SQL database.",
+	"name": "tribev2-showcase",
+	"description": "A Cloudflare Worker + D1 showcase page for TRIBE v2, a foundation model of vision, audition, and language for in-silico neuroscience.",
 	"cloudflare": {
 		"label": "Worker + D1 Database",
 		"products": [
